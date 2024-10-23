@@ -39,3 +39,5 @@ RLE, BWT (Burrows-Wheeler Transform), MTF (Move To Front) and Fibonacci Coding.
 Note: In this semester, there were not 13 weeks like in regular semesters, because it was conducted during wartime. As part of the adjustments made to all courses, this course was also slightly shortened.
 
 Note2: Due to copyright restrictions, the course presentations are not included in this repository.
+
+Note3: During the course, complex mathematical concepts were also studied that I did not include in the code. In fact, this repository only contains what I wrote in code to learn through hands-on experience.
