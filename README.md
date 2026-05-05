@@ -2,6 +2,7 @@
 <div align="center">
     
 ![Repository Views](https://komarev.com/ghpvc/?username=SimchaTeich&repo=Data-Compression-Course&label=Views&color=green&style=for-the-badge)
+
 <br />
 
 Data Compression Course, Ariel University
