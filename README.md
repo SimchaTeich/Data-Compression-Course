@@ -1,6 +1,6 @@
 # Data Compression Course
 
-![Views](https://komarev.com/ghpvc/?username=SimchaTeich&repo=Data-Compression-Course&label=Repository%20Views&color=blue&style=flat)
+![Views](https://komarev.com/ghpvc/?username=SimchaTeich&repo=Data-Compression-Course&label=Views&color=blue&style=flat)
 
 Data Compression Course, Ariel University
 
