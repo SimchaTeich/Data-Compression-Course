@@ -1,4 +1,7 @@
 # Data Compression Course
+
+![](https://hits.donaldzou.dev/count.svg?user=SimchaTeich&repo=Data-Compression-Course)
+
 Data Compression Course, Ariel University
 
 <div align=center>
