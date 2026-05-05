@@ -1,5 +1,4 @@
-# Data Compression Course ![Views](https://komarev.com/ghpvc/?username=SimchaTeich&repo=Data-Compression-Course&label=Views&color=blue&style=flat)
-
+# Data Compression Course
 Data Compression Course, Ariel University
 
 <div align=center>
@@ -42,3 +41,7 @@ Note: In this semester, there were not 13 weeks like in regular semesters, becau
 Note2: Due to copyright restrictions, the course presentations are not included in this repository.
 
 Note3: During the course, complex mathematical concepts were also studied that I did not include in the code. In fact, this repository only contains what I wrote in code to learn through hands-on experience.
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=SimchaTeich&repo=Data-Compression-Course&label=ACCESS_LOGS&color=444444&style=flat-square" />
+</p>
